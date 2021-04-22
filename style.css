@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+}
+.btns {
+    justify-content: space-around;
+    text-align: center;
+}
+#bdy {
+    background-image: url("download(11).jpg");
+}
+h1 {
+    color: brown;
+}
+.txto {
+    text-transform: uppercase;
+}
+.txtt {
+    text-transform: capitalize;
+}
+.txt {
+    background-color: chartreuse;
+}
